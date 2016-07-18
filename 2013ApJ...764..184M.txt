@@ -1,0 +1,2237 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Black Hole</title>
+<link href="styleBH.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<div id="psdgraphics-com-table">
+
+
+
+<div id="psdg-header">
+<span class="psdg-bold">Black Hole Data</span><br />
+<!-- Test --> 
+</div>
+
+
+
+<div id="psdg-head2">
+<div class="psdg-head2-cell" style="width:115px; padding-left: 24px;"></div>
+<div class="psdg-long-cell2"> Most recent update: June 26, 2013
+  <br>The table below is available in <a href="./current_ascii.txt">ASCII format</a>. 
+  <br>The original version of Table 3 in
+  <a href="http://adsabs.harvard.edu/abs/2013ApJ...764..184M">McConnell & Ma (2013)</a>
+  is also available in <a href="./McConnell_Ma_2013_ascii.txt">ASCII format.</a> 
+</div>
+</div>
+
+
+<div id="psdg-top">
+<div class="psdg-top-cell" style="width:115px; text-align:left; padding-left: 24px;">Galaxy</div>
+<div class="psdg-top-cell" style="width:111px">M<sub>BH</sub> (+,-) <br> (M<sub>sun</sub>)</div>
+<div class="psdg-top-cell" style="width:111px">&sigma; <br> (km/s)</div>
+<div class="psdg-top-cell" style="width:111px">log(L<sub>V</sub>) </div>
+<div class="psdg-top-cell">M<sub>V</sub></div>
+<div class="psdg-top-cell" style="width:111px">log(L<sub>3.6</sub>) </div>
+<div class="psdg-top-cell">M<sub>3.6</sub></div>
+<div class="psdg-top-cell" style="width:111px">M<sub>bulge</sub><br> (M<sub>sun</sub>)</div>
+<div class="psdg-top-cell">R<sub>inf</sub> (arcsec)</div>
+<div class="psdg-top-cell">R<sub>eff</sub> <br> V-band <br> (arcsec)</div>
+<div class="psdg-top-cell">R<sub>eff</sub> <br> i-band <br> (arcsec)</div>
+<div class="psdg-top-cell">R<sub>eff</sub> <br> 3.6um <br> (arcsec)</div>
+<div class="psdg-top-cell">Distance (Mpc)</div>
+<div class="psdg-top-cell">Morph</div>
+<div class="psdg-top-cell">BH Mass <br>Method</div>
+<div class="psdg-top-cell" style="width:160px;border:none;">BH Mass <br>Reference</div>
+
+</div>
+
+
+<div id="psdg-middle">
+
+<div class="psdg-left">
+Milky Way ^a</div>
+ <div class="psdg-bh">4.1 (0.6,0.6) e6</div>
+ <div class="psdg-bh">103 &plusmn 20 </div>
+ <div class="psdg-bh"> -- </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 43.0 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 0.008 </div>
+ <div class="psdg-right">S</div>
+ <div class="psdg-right">stars</div>
+ <div class="psdg-right"  style="width: 160px;"> <a href="http://adsabs.harvard.edu/abs/2008ApJ...689.1044G">Ghez 2008</a>,
+<a href="http://adsabs.harvard.edu/abs/2009ApJ...692.1075G">Gillessen 2009</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=PGC+49940&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">A1836-BCG</a> </div>
+ <div class="psdg-bh">  3.9 (0.4,0.6) e9</div>
+ <div class="psdg-bh">  288 &plusmn 14 </div>
+ <div class="psdg-bh"> 11.26 &plusmn 0.06 </div>
+ <div class="psdg-right"> -23.35 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh">--</div>
+ <div class="psdg-right"> 0.27 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right">
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012" >17.61</a> </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 157.5 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width: 160px;"> 
+ <a href="http://adsabs.harvard.edu/abs/2009ApJ...690..537D">Dalla Bonta 2009</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=IC+4296&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">A3565-BCG  ^b</a>  </div>
+ <div class="psdg-bh">  1.4 (0.3,0.2) e9 </div>
+ <div class="psdg-bh">  322 &plusmn 16 </div>
+ <div class="psdg-bh"> 11.24 &plusmn 0.06 </div>
+ <div class="psdg-right"> -23.30 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.22 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 54.4 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width: 160px;">   
+  <a href="http://adsabs.harvard.edu/abs/2009ApJ...690..537D">Dalla Bonta 2009</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=Circinus&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">Circinus</a> </div>
+ <div class="psdg-bh">  1.7 (0.4,0.3) e6 </div>
+ <div class="psdg-bh">  158 &plusmn 18 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 10.31 &plusmn 0.02 </div>
+ <div class="psdg-right"> -22.53 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.02 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">10.83</a> </div>
+ <div class="psdg-right"> 4.0 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> masers </div>
+ <div class="psdg-right"   style="width: 160px;">   
+  <a href="http://adsabs.harvard.edu/abs/2003ApJ...590..162G">Greenhill 2003</a>  </div>  
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=IC1459&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">IC1459 ^b</a>  </div>
+ <div class="psdg-bh">  2.8 (1.1,1.2) e9 </div>
+ <div class="psdg-bh">  315 &plusmn 16 </div>
+ <div class="psdg-bh"> 10.96 &plusmn 0.06 </div>
+ <div class="psdg-right"> -22.57 </div>
+ <div class="psdg-bh"> 11.82 &plusmn 0.12 </div>
+ <div class="psdg-right"> -26.30 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H" title="Rererence: Haring 2004">3.07e11</a> </div>
+ <div class="psdg-right"> 0.81 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">29.8</a> </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">61.1</a> </div>
+ <div class="psdg-right"> 30.9 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"   style="width: 160px;"> 
+  <a href="http://adsabs.harvard.edu/abs/2002ApJ...578..787C">Cappellari 2002</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N221&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N221 (M32)</a> </div>
+ <div class="psdg-bh">  2.6 (0.5,0.5) e6 </div>
+ <div class="psdg-bh">  75 &plusmn 3 </div>
+ <div class="psdg-bh"> 8.52 &plusmn 0.02 </div>
+ <div class="psdg-right"> -16.47 </div>
+ <div class="psdg-bh"> 8.95 &plusmn 0.25 </div>
+ <div class="psdg-right"> -19.12 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H" title="Reference: Haring 2004">7.62e8</a> </div>
+ <div class="psdg-right"> 0.57 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/1987ApJS...64..601B" title="Reference: Burstein 1987">38.6</a> </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">28.8</a> </div>
+ <div class="psdg-right"> 0.73 </div>
+ <div class="psdg-right"> E (I) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"   style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2002MNRAS.335..517V">Verolme 2002</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N224&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N224 (M31)</a> </div>
+ <div class="psdg-bh">  1.4 (0.8,0.3) e8 </div>
+ <div class="psdg-bh">  160 &plusmn 8 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh">
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H" title="Reference: Haring 2004">3.55e10</a> </div>
+ <div class="psdg-right"> 6.5 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 0.73 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"   style="width: 160px;">   <a href="http://adsabs.harvard.edu/abs/2005ApJ...631..280B">Bender 2005</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N524&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N524</a> </div>
+ <div class="psdg-bh">  8.6 (1.0,0.4) e8 </div>
+ <div class="psdg-bh">  235 &plusmn 12 </div>
+ <div class="psdg-bh"> 10.62 &plusmn 0.04 </div>
+ <div class="psdg-right"> -21.74 </div>
+ <div class="psdg-bh"> 11.26 &plusmn 0.08 </div>
+ <div class="psdg-right"> -24.91 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.57 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">26.8</a> </div>
+ <div class="psdg-right"> 24.2 </div>
+ <div class="psdg-right"> S0 (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"   style="width: 160px;">   <a href="http://adsabs.harvard.edu/abs/2009MNRAS.399.1839K">Krajnovic 2009</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N821&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N821</a> </div>
+ <div class="psdg-bh">  1.7 (0.7,0.7) e8 </div>
+ <div class="psdg-bh"> 209 &plusmn 10 </div> 
+ <div class="psdg-bh"> 10.36 &plusmn 0.05 </div>
+ <div class="psdg-right"> -21.10 </div>
+ <div class="psdg-bh"> 11.28 &plusmn 0.10 </div>
+ <div class="psdg-right"> -24.95 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729...21S" title="Reference: Schulze 2011">1.92e11</a> </div>
+ <div class="psdg-right"> 0.14 </div>
+ <div class="psdg-right"> 
+   <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">29.4</a> </div>
+ <div class="psdg-right">
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">35.0</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">63.6</a> </div>
+ <div class="psdg-right"> 23.4 </div>
+ <div class="psdg-right"> E (I) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729...21S">Schulze 2011</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N1023&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N1023</a> </div>
+ <div class="psdg-bh">  4.0 (0.4,0.4) e7  </div>
+ <div class="psdg-bh">  205 &plusmn 10 </div>
+ <div class="psdg-bh"> 10.06 &plusmn 0.11 </div>
+ <div class="psdg-right"> -20.22 </div>
+ <div class="psdg-bh"> 10.66 &plusmn 0.07 </div>
+ <div class="psdg-right"> -23.41 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H" title="Reference: Haring 2004">6.49e10</a> </div>
+ <div class="psdg-right"> 0.08 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">24.0</a> </div>
+ <div class="psdg-right"> 10.5 </div>
+ <div class="psdg-right"> S0 (pl) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"   style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2001ApJ...550...75B">Bower 2001</a>  </div>
+
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N1194&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N1194</a>  </div>
+ <div class="psdg-bh">  6.8 (0.3,0.3) e7 </div>
+ <div class="psdg-bh">  148 &plusmn (26,22) </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.05 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 55.5 </div>
+ <div class="psdg-right"> S0 </div>
+ <div class="psdg-right"> masers </div>
+ <div class="psdg-right"   style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...727...20K">Kuo 2011</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N1277&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N1277</a>  </div>
+ <div class="psdg-bh">  1.7 (0.3,0.3) e10 </div>
+ <div class="psdg-bh">     </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right">  </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right">  </div>
+ <div class="psdg-right"> S0 </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"   style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1211.6429">van den Bosch 2012</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N1300&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N1300</a> </div>
+ <div class="psdg-bh">  7.1 (3.4,1.8) e7 </div>
+ <div class="psdg-bh">  218 &plusmn 10 </div> 
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 10.55 &plusmn 0.13 </div>
+ <div class="psdg-right"> -23.12 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.07 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">85.4</a> </div>
+ <div class="psdg-right"> 20.1 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"   style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2005MNRAS.359..504A">Atkinson 2005</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=NGC+1316&amp;extend=no&amp;hconst=73&amp;omegam=0.27&amp;omegav=0.73&amp;corr_z=1&amp;out_csys=Equatorial&amp;out_equinox=J2000.0&amp;obj_sort=RA+or+Longitude&amp;of=pre_text&amp;zv_breaker=30000.0&amp;list_limit=5&amp;img_stamp=YES" target="_blank">N1316</a> </div>
+ <div class="psdg-bh">  1.7 (0.3,0.3) e8 </div>
+ <div class="psdg-bh">  226 &plusmn 11 </div>
+ <div class="psdg-bh"> 11.18 &plusmn 0.05 </div>
+ <div class="psdg-right"> -23.15 </div>
+ <div class="psdg-bh"> 12.06 &plusmn 0.32 </div>
+ <div class="psdg-right"> -26.91 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.14 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">65.8</a> </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">93.0</a> </div>
+ <div class="psdg-right"> 21.0 </div>
+ <div class="psdg-right"> E (I) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"   style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2008MNRAS.391.1629N">Nowak 2008</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N1332&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N1332</a> </div>
+ <div class="psdg-bh">  1.5 (0.2,0.2) e9 </div>
+ <div class="psdg-bh">  328 &plusmn 16 </div>
+ <div class="psdg-bh"> 10.16 &plusmn 0.05 </div>
+ <div class="psdg-right"> -20.60 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.54 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 22.7 </div>
+ <div class="psdg-right"> S0 (pl) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"   style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.410.1223R">Rusli 2011</a>  </div>
+
+<div class="psdg-left">
+<a
+  href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N1374&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N1374 ^b</a>  </div>
+ <div class="psdg-bh">  5.9 (0.5,0.5) e8 </div>
+ <div class="psdg-bh">  174 &plusmn 9 </div>
+ <div class="psdg-bh">  10.10 &plusmn 0.05 </div>
+ <div class="psdg-right"> -20.43 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 
+  <a href="http://arxiv.org/abs/1306.1124"
+   title="Reference: Rusli 2013">5.54e10</a> </div>
+ <div class="psdg-right"> 0.89 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">25.4</a> </div>
+ <div class="psdg-right"> -- </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 19.6 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://arxiv.org/abs/1306.1124">Rusli 2013</a>  </div>
+   
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N1399&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N1399  ^b,c</a>  </div>
+ <div class="psdg-bh">  5.1 (0.6,0.7) e8 </div>
+ <div class="psdg-bh">  296 &plusmn 15 </div>
+ <div class="psdg-bh"> 10.78 &plusmn 0.04 </div>
+ <div class="psdg-right"> -22.12 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/1998AJ....115.2285M" title="Reference: Magorrian 1998">3.98e11</a> </div>
+ <div class="psdg-right"> 0.25 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">40.8</a> </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 20.9 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"   style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...671.1321G">Gebhardt 2007</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N1399&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N1399  ^b,c</a>  </div>
+ <div class="psdg-bh">  1.3 (0.5,0.7) e9 </div>
+ <div class="psdg-bh">  296 &plusmn 15 </div>
+ <div class="psdg-bh"> 10.78 &plusmn 0.04 </div>
+ <div class="psdg-right"> -22.12 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/1998AJ....115.2285M" title="Reference: Magorrian 1998">3.98e11</a> </div>
+ <div class="psdg-right"> 0.25 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">40.8</a> </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 20.9 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"   style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2006MNRAS.367....2H">Houghton 2006</a>  </div>
+
+  
+  <div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N1407&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N1407 ^b</a>  </div>
+ <div class="psdg-bh">  4.7 (0.9,0.5) e9 </div>
+ <div class="psdg-bh">  274 &plusmn 14 </div>
+ <div class="psdg-bh">  11.05 &plusmn 0.05 </div>
+ <div class="psdg-right"> -22.80 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 
+  <a href="http://arxiv.org/abs/1306.1124"
+   title="Reference: Rusli 2013">8.65e11</a> </div>
+ <div class="psdg-right"> 1.9 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/1987ApJS...64..601B" title="Reference: Burstein 1987">72.0</a> </div>
+ <div class="psdg-right"> -- </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 29.0 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://arxiv.org/abs/1306.1124">Rusli 2013</a>  </div>
+
+  
+<div class="psdg-left">
+<a
+  href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N1550&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N1550 ^b</a>  </div>
+ <div class="psdg-bh">  3.8 (0.4,0.4) e9 </div>
+ <div class="psdg-bh">  289 &plusmn 14 </div>
+ <div class="psdg-bh">  10.88 &plusmn 0.05 </div>
+ <div class="psdg-right"> -22.36 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.76 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 53.0 </div>
+ <div class="psdg-right"> E (I)</div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://arxiv.org/abs/1306.1124">Rusli 2013</a>  </div>
+
+  
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N2273&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N2273 </a>  </div>
+ <div class="psdg-bh">  7.8 (0.4,0.4) e6 </div>
+ <div class="psdg-bh">  144 &plusmn (18,16) </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.01 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 26.8 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> masers </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...727...20K">Kuo 2011</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N2549&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N2549</a> </div>
+ <div class="psdg-bh">  1.4 (0.1,0.4) e7 </div>
+ <div class="psdg-bh">  145 &plusmn 7 </div>
+ <div class="psdg-bh"> 9.55 &plusmn 0.04 </div>
+ <div class="psdg-right"> -19.04 </div>
+ <div class="psdg-bh"> 10.18 &plusmn 0.05 </div>
+ <div class="psdg-right"> -22.20 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2009MNRAS.399.1839K" title="Reference: Krajnovic 2009">1.99e10</a> </div>
+ <div class="psdg-right"> 0.05 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">36.1</a> </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">11.6</a> </div>
+ <div class="psdg-right"> 12.7 </div>
+ <div class="psdg-right"> S0 (pl) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2009MNRAS.399.1839K">Krajnovic 2009</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N2787&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N2787</a> </div>
+ <div class="psdg-bh">  4.1 (0.4,0.5) e7 </div>
+ <div class="psdg-bh">  189 &plusmn 9 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 10.03 &plusmn 0.23 </div> 
+ <div class="psdg-right"> -21.82 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.14 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">15.7</a> </div>
+ <div class="psdg-right"> 7.5 </div>
+ <div class="psdg-right"> S0 (pl) </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2001ApJ...550...65S">Sarzi 2001</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N2960&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N2960 </a>  </div>
+ <div class="psdg-bh">  1.21 (0.05,0.05) e7 </div>
+ <div class="psdg-bh"> 166 &plusmn (16,15)  </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.01 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 75.3 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> masers </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...727...20K">Kuo 2011</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N3031&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N3031 (M81)</a> </div>
+ <div class="psdg-bh">  8.0 (2.0,1.1) e7 </div>
+ <div class="psdg-bh">  143 &plusmn 7 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 10.93 &plusmn 0.12 </div>
+ <div class="psdg-right"> -24.06 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.85 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">94.6</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">127.3</a> </div>
+ <div class="psdg-right"> 4.1 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2003AJ....125.1226D">Devereux 2003</a>  </div>
+
+  
+  <div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N3091&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N3091</a>  </div>
+ <div class="psdg-bh">  3.7 (0.1,0.2) e9 </div>
+ <div class="psdg-bh">  307 &plusmn 15 </div>
+ <div class="psdg-bh">  11.02 &plusmn 0.05 </div>
+ <div class="psdg-right"> -22.72 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.66 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/1987ApJS...64..601B" title="Reference: Burstein 1987">30.7</a> </div>
+ <div class="psdg-right"> -- </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 52.7 </div>
+ <div class="psdg-right"> E (C)</div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+   <a href="http://arxiv.org/abs/1306.1124">Rusli 2013</a>  </div>
+  
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N3115&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N3115</a> </div>
+ <div class="psdg-bh">  8.9 (5.1,2.7) e8 </div>
+ <div class="psdg-bh">  230 &plusmn 11 </div>
+ <div class="psdg-bh"> 10.34 &plusmn 0.02 </div>
+ <div class="psdg-right"> -21.05 </div>
+ <div class="psdg-bh"> 10.86 &plusmn 0.04 </div>
+ <div class="psdg-right"> -23.90 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H" title="Reference: Haring 2004">1.57e11</a> </div>
+ <div class="psdg-right"> 1.58 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">47.4</a> </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">27.3</a> </div>
+ <div class="psdg-right"> 9.5 </div>
+ <div class="psdg-right"> S0 (pl) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/1999MNRAS.303..495E">Emsellem 1999</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N3227&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N3227</a> </div>
+ <div class="psdg-bh">  1.5 (0.5,0.8) e7 </div>
+ <div class="psdg-bh">  133 &plusmn 12 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 10.85 &plusmn 0.20 </div>
+ <div class="psdg-right"> -23.88 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.04 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">59.1</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">82.9</a> </div>
+ <div class="psdg-right"> 17.0 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2006ApJ...646..754D">Davies 2006</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N3245&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N3245</a> </div>
+ <div class="psdg-bh">  2.1 (0.5,0.6) e8 </div>
+ <div class="psdg-bh">  205 &plusmn 10 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 10.47 &plusmn 0.08 </div>
+ <div class="psdg-right"> -22.93 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H" title="Reference: Haring 2004" >7.00e10</a> </div>
+ <div class="psdg-right"> 0.21 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">26.7</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">4.6</a> </div>
+ <div class="psdg-right"> 21.5 </div>
+ <div class="psdg-right"> S0 (pl) </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2001ApJ...555..685B">Barth 2001</a>  </div>
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=N3368&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N3368</a> </div>
+ <div class="psdg-bh"> 7.6 (1.6,1.5) e6 </div>
+ <div class="psdg-bh"> 122 &plusmn (28,24) </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 10.72 &plusmn 0.04 </div>
+ <div class="psdg-right"> -23.56 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.04 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">45.6</a> </div>
+ <div class="psdg-right"> 10.6 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2010MNRAS.403..646N">Nowak 2010</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N3377&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N3377</a> </div>
+ <div class="psdg-bh">  1.9 (1.0,1.0) e8 </div>
+ <div class="psdg-bh">  145 &plusmn 7 </div>
+ <div class="psdg-bh"> 9.93 &plusmn 0.04 </div> 
+ <div class="psdg-right"> -20.03 </div>
+ <div class="psdg-bh"> 10.61 &plusmn 0.07 </div>
+ <div class="psdg-right"> -23.28 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729...21S" title="Reference: Schulze 2011">2.35e10</a> </div>
+ <div class="psdg-right"> 0.69 </div> 
+ <div class="psdg-right">
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">35.2</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">59.5</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">55.2</a> </div>
+ <div class="psdg-right"> 11.0 </div>
+ <div class="psdg-right"> E (pl) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729...21S">Schulze 2011</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N3379&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N3379 (M105)</a>  </div>
+ <div class="psdg-bh">  4.2 (1.0,1.1) e8 </div>
+ <div class="psdg-bh">  206 &plusmn 10 </div>
+ <div class="psdg-bh"> 10.29 &plusmn 0.01 </div>
+ <div class="psdg-right"> -20.92 </div>
+ <div class="psdg-bh"> 11.02 &plusmn 0.07 </div>
+ <div class="psdg-right"> -24.30 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H" title="Reference: Haring 2004">6.86e10</a> </div>
+ <div class="psdg-right"> 0.83 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">43.3</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">57.0</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">46.0</a> </div>
+ <div class="psdg-right"> 10.7 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2010MNRAS.401.1770V">van den Bosch 2010</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N3384&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N3384</a> </div>
+ <div class="psdg-bh">  1.1 (0.5,0.5) e7 </div>
+<!-- <div class="psdg-bh">  1.1 (0.5,0.5) e7 </div> -->
+ <div class="psdg-bh">  143 &plusmn 7  </div>
+ <div class="psdg-bh"> 9.89 &plusmn 0.09 </div>
+ <div class="psdg-right"> -19.92 </div>
+ <div class="psdg-bh"> 10.18 &plusmn 0.03 </div>
+ <div class="psdg-right"> -22.19 </div>
+ <div class="psdg-bh">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729...21S" title="Reference: Schulze 2011">1.90e10</a> </div>
+ <div class="psdg-right"> 0.04 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">21.2</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">37.7</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">4.4</a> </div>
+ <div class="psdg-right"> 11.5 </div>
+ <div class="psdg-right"> E (pl) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729...21S">Schulze 2011</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N3393&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N3393</a>  </div>
+ <div class="psdg-bh">  3.3 (0.2,0.2) e7 </div>
+ <div class="psdg-bh">  148 &plusmn 10  </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.03 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 53.6 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> masers </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2008ApJ...678...87K">Kondratko 2008</a>  </div>
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=N3489&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N3489</a> </div>
+ <div class="psdg-bh"> 6.0 (0.8,0.9) e6 </div>
+<!-- <div class="psdg-bh"> 6.0 (0.8,0.8) e6 </div> -->
+ <div class="psdg-bh"> 100 &plusmn (15,11) </div>
+ <div class="psdg-bh"> -- </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 10.14 &plusmn 0.18 </div>
+ <div class="psdg-right"> -22.10 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.04 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">4.6</a> </div>
+ <div class="psdg-right"> 12.0 </div>
+ <div class="psdg-right"> S0 </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+   <a href="http://adsabs.harvard.edu/abs/2010MNRAS.403..646N">Nowak 2010</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N3585&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N3585</a> </div>
+ <div class="psdg-bh">  3.3 (1.5,0.6) e8 </div>
+ <div class="psdg-bh">  213 &plusmn 10  </div> 
+ <div class="psdg-bh"> 10.66 &plusmn 0.08 </div>
+ <div class="psdg-right"> -21.82 </div>
+ <div class="psdg-bh"> 11.04 &plusmn 0.25 </div>
+ <div class="psdg-right"> -24.36 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2009ApJ...695.1577G" title="Reference: Gultekin 2009">1.60e11</a> </div>
+ <div class="psdg-right"> 0.31 </div>
+ <div class="psdg-right">
+  <a href="http://adsabs.harvard.edu/abs/1987ApJS...64..601B" title="Reference: Burstein 1987">39.6</a> </div>
+<div class="psdg-right"> -- </div>
+  <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">15.5</a> </div>
+ <div class="psdg-right"> 20.6 </div>
+ <div class="psdg-right"> S0 (I) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">  <a href="http://adsabs.harvard.edu/abs/2009ApJ...695.1577G">Gultekin 2009</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N3607&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N3607</a>  </div>
+ <div class="psdg-bh">  1.4 (0.4,0.5) e8 </div>
+ <div class="psdg-bh">  229 &plusmn 11  </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 11.43 &plusmn 0.06 </div>
+ <div class="psdg-right"> -25.34 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.10 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">36.1</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">36.4</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">44.6</a> </div>
+ <div class="psdg-right"> 22.6 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2009ApJ...695.1577G">Gultekin 2009</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N3608&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N3608</a> </div>
+ <div class="psdg-bh">  4.7 (1.0,1.0) e8 </div>
+ <div class="psdg-bh">  182 &plusmn 9 </div>
+ <div class="psdg-bh"> 10.34 &plusmn 0.04 </div>
+ <div class="psdg-right"> -21.02 </div>
+ <div class="psdg-bh"> 11.14 &plusmn 0.09 </div>
+ <div class="psdg-right"> -24.60 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729...21S" title="Reference: Schulze 2011">7.66e10</a> </div>
+ <div class="psdg-right"> 0.55 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">29.7</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">28.4</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">56.4</a> </div>
+ <div class="psdg-right"> 22.8 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729...21S">Schulze 2011</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N3842&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N3842 ^b</a>  </div>
+ <div class="psdg-bh">  9.7 (3.0,2.5) e9 </div>
+ <div class="psdg-bh">  270 &plusmn 14 </div>
+ <div class="psdg-bh"> 11.20 &plusmn 0.05 </div>
+ <div class="psdg-right"> -23.21 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2012arXiv1203.1620M" title="Reference: McConnell 2012">1.55e12</a> </div>
+ <div class="psdg-right"> 1.20 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">37.8</a> </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 98.4 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011Natur.480..215M">McConnell 2011b</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N3998&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N3998 ^b</a> </div>
+ <div class="psdg-bh">  8.5 (0.7,0.7) e8 </div>
+ <div class="psdg-bh">  272 &plusmn 14 </div>
+ <div class="psdg-bh"> 9.91 &plusmn 0.04 </div>
+ <div class="psdg-right"> -19.97 </div>
+ <div class="psdg-bh"> 10.35 &plusmn 0.02 </div>
+ <div class="psdg-right"> -22.64 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.15 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">20.4</a> </div> 
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">4.7</a> </div>
+ <div class="psdg-right"> 14.3 </div>
+ <div class="psdg-right"> S0 (pl) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2012ApJ...753...79W">Walsh 2012</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4026&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4026</a> </div>
+ <div class="psdg-bh">  1.8 (0.6,0.3) e8 </div>
+ <div class="psdg-bh">  180 &plusmn 9 </div>
+ <div class="psdg-bh"> 9.73 &plusmn 0.08 </div>
+ <div class="psdg-right"> -19.52 </div>
+ <div class="psdg-bh"> 10.32 &plusmn 0.07 </div>
+ <div class="psdg-right"> -22.56 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2009ApJ...695.1577G" title="Reference: Gultekin 2009">2.81e10</a> </div>
+ <div class="psdg-right"> 0.37 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L"  title="Reference: Lauer 2007">51.4</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B"  title="Reference: Beifiori 2012">21.1</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S"  title="Reference: Sani 2011">11.4</a> </div>
+ <div class="psdg-right"> 13.4 </div>
+ <div class="psdg-right"> S0 (pl) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2009ApJ...695.1577G">Gultekin 2009</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4258&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4258</a> </div>
+ <div class="psdg-bh">  3.67 (0.01,0.01) e7 </div>
+ <div class="psdg-bh">  115 &plusmn 10 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 10.88 &plusmn 0.03 </div>
+ <div class="psdg-right"> -23.96 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.35 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">135.8</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">111.7</a> </div>
+ <div class="psdg-right"> 7.0 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> masers </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2005ApJ...629..719H">Herrnstein 2005</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4261&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4261</a> </div>
+ <div class="psdg-bh">  5.3 (1.1,1.1) e8 </div>
+ <div class="psdg-bh">  315 &plusmn 15 </div>
+ <div class="psdg-bh"> 11.00 &plusmn 0.02 </div>
+ <div class="psdg-right"> -22.67 </div>
+ <div class="psdg-bh"> 11.43 &plusmn 0.06 </div>
+ <div class="psdg-right"> -25.34 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H" title="Reference: Haring 2004">8.26e11</a> </div>
+ <div class="psdg-right"> 0.15 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">50.2</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">56.6</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">22.6</a> </div>
+ <div class="psdg-right"> 32.6 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/1996ApJ...470..444F">Ferrarese 1996</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4291&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4291</a> </div>
+ <div class="psdg-bh">  9.8 (3.1,3.1) e8 </div>
+ <div class="psdg-bh">  242 &plusmn 12 </div>
+ <div class="psdg-bh"> 10.25 &plusmn 0.05 </div>
+ <div class="psdg-right"> -20.80 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729...21S" title="Reference: Schulze 2011">9.96e10</a> </div>
+ <div class="psdg-right"> 0.56 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">16.1</a> </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 26.6 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">  
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729...21S">Schulze 2011</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4342&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4342</a> </div>
+ <div class="psdg-bh">  4.6 (2.6,1.5) e8 </div>
+ <div class="psdg-bh">  225 &plusmn 11 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H" title="Reference: Haring 2004">1.80e10</a> </div>
+ <div class="psdg-right"> 0.35 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">7.6</a> </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 23.0 </div>
+ <div class="psdg-right"> S0 (pl) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/1999ASPC..182...41C">Cretton 1999</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4374&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4374 (M84)</a> </div>
+ <div class="psdg-bh">  9.2 (1.0,0.8) e8 </div>
+ <div class="psdg-bh"> 296 &plusmn 14 </div>
+ <div class="psdg-bh"> 10.98 &plusmn 0.02 </div>
+ <div class="psdg-right"> -22.65 </div>
+ <div class="psdg-bh"> 11.81 &plusmn 0.02 </div>
+ <div class="psdg-right"> -26.28 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H" title="Reference: Haring 2004">3.62e11</a> </div>
+ <div class="psdg-right"> 0.51 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">64.8</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">53.8</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">105.9</a> </div>
+ <div class="psdg-right"> 18.5 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2010ApJ...721..762W">Walsh 2010</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4388&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4388</a>  </div>
+ <div class="psdg-bh">  8.8 (0.2,0.2) e6 </div>
+ <div class="psdg-bh">  107 &plusmn (8,7) </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.03 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 19.8 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> masers </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...727...20K">Kuo 2011</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4459&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4459</a> </div>
+ <div class="psdg-bh">  7.0 (1.3,1.4) e7 </div>
+ <div class="psdg-bh"> 167 &plusmn 8 </div>
+ <div class="psdg-bh"> 10.31 &plusmn 0.02 </div>
+ <div class="psdg-right"> -20.98 </div>
+ <div class="psdg-bh"> 10.63 &plusmn 0.04 </div>
+ <div class="psdg-right"> -23.32 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.14 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">41.0</a> </div> 
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">10.3</a> </div>
+ <div class="psdg-right"> 16.0 </div>
+ <div class="psdg-right"> E (pl) </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2001ApJ...550...65S">Sarzi 2001</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4472&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4472</a>  </div>
+ <div class="psdg-bh">  2.4 (0.3,0.1) e9 </div>
+ <div class="psdg-bh">  315 &plusmn 16 </div>
+ <div class="psdg-bh">  11.04 &plusmn 0.05 </div>
+ <div class="psdg-right"> -22.78 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 
+  <a href="http://arxiv.org/abs/1306.1124"
+   title="Reference: Rusli 2013">8.22e11</a> </div>
+ <div class="psdg-right"> 1.3 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">100.4</a> </div>
+ <div class="psdg-right"> -- </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 16.7 </div>
+ <div class="psdg-right"> E (C)</div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://arxiv.org/abs/1306.1124">Rusli 2013</a>  </div>
+
+
+  <div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4473&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4473</a> </div>
+ <div class="psdg-bh">  8.9 (4.5,4.4) e7 </div>
+ <div class="psdg-bh">  190 &plusmn 9 </div>
+ <div class="psdg-bh"> 10.29 &plusmn 0.02 </div>
+ <div class="psdg-right"> -20.92 </div>
+ <div class="psdg-bh"> 11.03 &plusmn 0.02 </div>
+ <div class="psdg-right"> -24.32 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729...21S" title="Reference: Schulze 2011">1.61e11</a> </div>
+ <div class="psdg-right"> 0.15 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">30.3</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">34.8</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">49.3</a> </div> 
+ <div class="psdg-right"> 15.2 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729...21S">Schulze 2011</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4486&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4486 (M87)  ^b</a>  </div>
+ <div class="psdg-bh">  6.2 (0.3,0.4) e9 </div>
+<!-- <div class="psdg-bh">  6.3 (0.3,0.4) e9 </div> -->
+ <div class="psdg-bh">  324 &plusmn (28,16) </div>
+ <div class="psdg-bh"> 11.08 &plusmn 0.02 </div>
+ <div class="psdg-right"> -22.90 </div>
+ <div class="psdg-bh"> 11.71 &plusmn 0.02 </div>
+ <div class="psdg-right"> -26.01 </div>
+ <div class="psdg-bh">
+  <a href="http://adsabs.harvard.edu/abs/2009ApJ...700.1690G" title="Reference: Gultekin 2009">1.31e12</a> </div>
+ <div class="psdg-right"> 3.14 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">100.4</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">68.4</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">99.5</a> </div>
+ <div class="psdg-right"> 16.7 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> stars </div> 
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729..119G">Gebhardt 2011</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4486&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4486A</a> </div>
+ <div class="psdg-bh">  1.4 (0.5,0.5) e7 </div>
+ <div class="psdg-bh">  111 &plusmn 5 </div>
+ <div class="psdg-bh"> 9.48 &plusmn 0.02 </div> 
+ <div class="psdg-right"> -18.90 </div>
+ <div class="psdg-bh"> 10.21 &plusmn 0.03 </div>
+ <div class="psdg-right"> -22.28 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.06 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">5.8</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011" >7.2</a> </div>
+ <div class="psdg-right"> 18.4 </div>
+ <div class="psdg-right"> E (pl) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2007MNRAS.379..909N">Nowak 2007</a>  </div>
+
+  
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=N4526&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4526</a>  </div>
+ <div class="psdg-bh"> 4.73 (0.13,0.13) e8 </div>
+ <div class="psdg-bh"> 222 &plusmn 11 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.52 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">45.6</a> </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 16.5</div>
+ <div class="psdg-right"> S0 </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width:160px;">
+  <a href="http://adsabs.harvard.edu/abs/2013Natur.494..328D">Davis 2013</a>,<a
+   href="http://arxiv.org/abs/1303.0834">Gould 2013</a>  </div>
+
+   
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4564&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4564</a>    </div>
+ <div class="psdg-bh">  8.8 (2.4,2.4) e7 </div>
+ <div class="psdg-bh">  162 &plusmn 8 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh">10.60 &plusmn 0.05 </div>
+ <div class="psdg-right"> -23.25 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H" title="Reference: Haring 2004">4.66e10</a> </div>
+ <div class="psdg-right"> 0.19 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">31.7</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">22.4</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">25.0</a> </div>
+ <div class="psdg-right"> 15.9 </div>
+ <div class="psdg-right"> S0 (pl) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729...21S">Schulze 2011</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4594&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4594 (M104) ^b</a> </div>
+ <div class="psdg-bh">  6.7 (0.5,0.4) e8 </div>
+ <div class="psdg-bh">  230 &plusmn 12 </div>
+ <div class="psdg-bh"> 10.77 &plusmn 0.06 </div>
+ <div class="psdg-right"> -22.10 </div>
+ <div class="psdg-bh"> 11.10 &plusmn 0.06 </div>
+ <div class="psdg-right"> -24.49 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H" title="Reference: Haring 2004">3.52e11</a> </div>
+ <div class="psdg-right"> 0.87 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">66.1</a> </div>
+ <div class="psdg-right"> 10.0 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...739...21J">Jardel 2011</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4596&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4596</a> </div>
+ <div class="psdg-bh">  8.4 (3.6,2.5) e7 </div>
+ <div class="psdg-bh">  136 &plusmn 6 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 10.77 &plusmn 0.02 </div>
+ <div class="psdg-right"> -23.68 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.22 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">56.2</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">28.0</a> </div>
+ <div class="psdg-right"> 18.0 </div>
+ <div class="psdg-right"> S0 (pl) </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2001ApJ...550...65S">Sarzi 2001</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4649&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4649 (M60)  ^b</a>  </div>
+ <div class="psdg-bh">  4.7 (1.1,1.0) e9 </div>
+ <div class="psdg-bh">  341 &plusmn 17 </div>
+ <div class="psdg-bh"> 10.99 &plusmn 0.02 </div>
+ <div class="psdg-right"> -22.67 </div>
+ <div class="psdg-bh"> 11.51 &plusmn 0.04 </div>
+ <div class="psdg-right"> -25.54 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2010ApJ...711..484S" title="Reference: Shen 2010">7.72e11</a> </div>
+ <div class="psdg-right"> 2.18 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">76.1</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">67.5</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">47.1</a> </div>
+ <div class="psdg-right"> 16.5 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2010ApJ...711..484S">Shen 2010</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4697&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4697</a> </div>
+ <div class="psdg-bh">  2.0 (0.2,0.2) e8 </div>
+ <div class="psdg-bh">  177 &plusmn 8 </div>
+ <div class="psdg-bh"> 10.46 &plusmn 0.04 </div>
+ <div class="psdg-right"> -21.35 </div>
+ <div class="psdg-bh"> 11.22 &plusmn 0.04 </div>
+ <div class="psdg-right"> -24.79 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H" title="Reference: Haring 2004">1.29e11</a> </div>
+ <div class="psdg-right"> 0.46 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">79.5</a> </div>
+ <div class="psdg-right">
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">59.7</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">100.5</a> </div> 
+ <div class="psdg-right"> 12.5 </div>
+ <div class="psdg-right"> E (pl) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729...21S">Schulze 2011</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4736&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4736 (M94)</a> </div>
+ <div class="psdg-bh">  6.8 (1.6,1.6) e6 </div>
+ <div class="psdg-bh">  112 &plusmn 6 </div>
+ <div class="psdg-bh"> 9.76 &plusmn 0.04 </div>
+ <div class="psdg-right"> -19.60 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.10 </div> 
+ <div class="psdg-right"> -- </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 5.0 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011Natur.469..374K">Kormendy 2011</a>  </div>
+
+  
+  <div class="psdg-left">
+<a
+  href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4751&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4751</a>  </div>
+ <div class="psdg-bh">  1.4 (0.1,0.1) e9 </div>
+ <div class="psdg-bh">  355 &plusmn 18 </div>
+ <div class="psdg-bh">  10.26 &plusmn 0.05 </div>
+ <div class="psdg-right"> -20.81 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.36 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 27.7 </div>
+ <div class="psdg-right"> E/S0 </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://arxiv.org/abs/1306.1124">Rusli 2013</a>  </div>
+
+  
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4826&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4826 (M64)</a> </div>
+ <div class="psdg-bh">  1.6 (0.4,0.4) e6 </div>
+ <div class="psdg-bh">  96 &plusmn 5 </div>
+ <div class="psdg-bh"> 9.62 &plusmn 0.04 </div>
+ <div class="psdg-right"> -19.25 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.02 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 7.3 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011Natur.469..374K">Kormendy 2011</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N4889&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4889  ^b</a>  </div>
+ <div class="psdg-bh">  2.1 (1.6,1.55) e10 </div>
+ <div class="psdg-bh">  347 &plusmn 17 </div>
+ <div class="psdg-bh"> 11.48 &plusmn 0.05 </div>
+ <div class="psdg-right"> -23.91 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/1998AJ....115.2285M" title="Reference: Magorrian 1998">1.75e12</a> </div>
+ <div class="psdg-right"> 1.50 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">54.5</a> </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 103.2 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011Natur.480..215M">McConnell 2011b</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N5077&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N5077</a> </div>
+ <div class="psdg-bh">  8.0 (5.0,3.3) e8 </div>
+ <div class="psdg-bh">  222 &plusmn 11 </div>
+ <div class="psdg-bh"> 10.75 &plusmn 0.05 </div>
+ <div class="psdg-right"> -22.08 </div>
+ <div class="psdg-bh"> 11.56 &plusmn 0.10 </div>
+ <div class="psdg-right"> -25.65 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2008A%26A...479..355D" title="Reference: de Francesco 2008">3.66e11</a> </div>
+ <div class="psdg-right"> 0.32 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/1987ApJS...64..601B" title="Reference: Burstein 1987">25.0</a> </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">29.2</a> </div>
+ <div class="psdg-right"> 44.9 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2008A%26A...479..355D">de Francesco 2008</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N5128&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N5128 (Cen A)^d</a>  </div>
+ <div class="psdg-bh">  5.9 (1.1,1.0) e7 </div>
+ <div class="psdg-bh">  150 &plusmn 7 </div>
+ <div class="psdg-bh"> 10.60 &plusmn 0.03 </div>
+ <div class="psdg-right"> -21.70 </div>
+ <div class="psdg-bh"> 11.13 &plusmn 0.11 </div>
+ <div class="psdg-right"> -24.57 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.60 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 4.1 </div>
+ <div class="psdg-right"> S0/E (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+ <a href="http://adsabs.harvard.edu/abs/2009MNRAS.394..660C">Cappellari  2009</a>  </div>
+
+  
+  <div class="psdg-left">
+<a
+  href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N5328&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N5328</a>  </div>
+ <div class="psdg-bh">  4.8 (1.0,1.9) e9 </div>
+ <div class="psdg-bh">  333 &plusmn 17 </div>
+ <div class="psdg-bh">  11.08 &plusmn 0.05 </div>
+ <div class="psdg-right"> -22.86 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 
+  <a href="http://arxiv.org/abs/1306.1124"
+   title="Reference: Rusli 2013">1.18e12</a> </div>
+ <div class="psdg-right"> 0.58 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/1987ApJS...64..601B" title="Reference: Burstein 1987">21.7</a> </div>
+ <div class="psdg-right"> -- </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 65.9 </div>
+ <div class="psdg-right"> E </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://arxiv.org/abs/1306.1124">Rusli 2013</a>  </div>
+  
+
+  <div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N5516&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N5516</a>  </div>
+ <div class="psdg-bh">  3.5 (0.2,0.4) e9 </div>
+ <div class="psdg-bh">  306 &plusmn 26 </div>
+ <div class="psdg-bh">  11.10 &plusmn 0.05 </div>
+ <div class="psdg-right"> -22.93 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.55 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 60.1 </div>
+ <div class="psdg-right"> E (C)</div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://arxiv.org/abs/1306.1124">Rusli 2013</a>  </div>
+
+  
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N5576&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N5576</a> </div>
+ <div class="psdg-bh">  1.7 (0.3,0.4) e8 </div>
+ <div class="psdg-bh">  183 &plusmn 9 </div>
+ <div class="psdg-bh"> 10.39 &plusmn 0.05 </div>
+ <div class="psdg-right"> -21.17 </div>
+ <div class="psdg-bh"> 11.22 &plusmn 0.06 </div>
+ <div class="psdg-right"> -24.79 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2009ApJ...695.1577G" title="Reference: Gultekin 2009">9.58e10</a> </div>
+ <div class="psdg-right"> 0.18 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">28.9</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">49.4</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">34.3</a> </div>
+ <div class="psdg-right"> 25.7 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2009ApJ...695.1577G">Gultekin 2009</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N5845&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N5845</a> </div>
+ <div class="psdg-bh">  4.9 (1.5,1.6) e8 </div>
+ <div class="psdg-bh">  234 &plusmn 11 </div>
+ <div class="psdg-bh"> 9.75 &plusmn 0.05 </div>
+ <div class="psdg-right"> -19.58 </div>
+ <div class="psdg-bh"> 10.54 &plusmn 0.01 </div>
+ <div class="psdg-right"> -23.11 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H" title="Reference: Haring 2004">3.36e10</a> </div>
+ <div class="psdg-right"> 0.31 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">3.3</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">4.3</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">3.7</a> </div> 
+ <div class="psdg-right"> 25.9 </div>
+ <div class="psdg-right"> E (pl) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729...21S">Schulze 2011</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N6086&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N6086</a>  </div>
+ <div class="psdg-bh">  3.8 (1.7,1.2) e9 </div>
+ <div class="psdg-bh">  318 &plusmn 16 </div>
+ <div class="psdg-bh"> 11.23 &plusmn 0.05 </div>
+ <div class="psdg-right"> -23.24 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...728..100M" title="Reference: McConnell 2011">1.43e12</a> </div>
+ <div class="psdg-right"> 0.24 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">36.8</a> </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 139.1 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...728..100M">McConnell 2011a</a>  </div>
+
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N6251&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N6251</a> </div>
+ <div class="psdg-bh">  6.0 (2.0,2.0) e8 </div>
+ <div class="psdg-bh">  290 &plusmn 14 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 12.07 &plusmn 0.08 </div>
+ <div class="psdg-right"> -26.93 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H" title="Reference: Haring 2004">5.60e11</a> </div>
+ <div class="psdg-right"> 0.06 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">42.4</a> </div>
+ <div class="psdg-right"> 106.0 </div>
+ <div class="psdg-right"> E (pl) </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/1999ApJ...515..583F">Ferrarese 1999</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N6264&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N6264</a>  </div>
+ <div class="psdg-bh">  3.03 (0.05,0.04) e7 </div>
+ <div class="psdg-bh">  158 &plusmn (15,14) </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.01 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 145.4 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> masers </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...727...20K">Kuo 2011</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N6323&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N6323</a>  </div>
+ <div class="psdg-bh">  9.8 (0.1,0.1) e6 </div>
+ <div class="psdg-bh">  158 &plusmn (28,23) </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.003 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 110.5 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> masers </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...727...20K">Kuo 2011</a>  </div>
+
+  
+  <div class="psdg-left">
+<a
+  href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N6861&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N6861</a>  </div>
+ <div class="psdg-bh">  2.1 (0.2,0.2) e9 </div>
+ <div class="psdg-bh">  389 &plusmn 19 </div>
+ <div class="psdg-bh">  10.54 &plusmn 0.05 </div>
+ <div class="psdg-right"> -21.51 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.43 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/1987ApJS...64..601B" title="Reference: Burstein 1987">22.8</a> </div>
+ <div class="psdg-right"> -- </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 28.9 </div>
+ <div class="psdg-right"> E/S0 </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://arxiv.org/abs/1306.1124">Rusli 2013</a>  </div>
+
+  
+  <div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N7052&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N7052</a> </div>
+ <div class="psdg-bh">  4.0 (2.8,1.6) e8 </div>
+ <div class="psdg-bh">  266 &plusmn 13 </div>
+ <div class="psdg-bh"> 10.92 &plusmn 0.04 </div>
+ <div class="psdg-right"> -22.47 </div>
+ <div class="psdg-bh"> 11.82 &plusmn 0.06 </div>
+ <div class="psdg-right"> -26.29 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H" title="Reference: Haring 2004">3.50e11</a> </div>
+ <div class="psdg-right"> 0.07 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">40.5</a> </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">39.3</a> </div>
+ <div class="psdg-right"> 70.9 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/1998AJ....116.2220V">van der Marel</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N7582&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N7582</a> </div>
+ <div class="psdg-bh">  5.5 (1.6,1.1) e7 </div>
+ <div class="psdg-bh">  156 &plusmn 19 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 11.06 &plusmn 0.18 </div>
+ <div class="psdg-right"> -24.41 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.09 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">86.4</a> </div>
+ <div class="psdg-right"> 22.3 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2006A%26A...460..449W">Wold 2006</a>  </div>
+
+  
+  <div class="psdg-left">
+<a
+    href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N7619&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N7619 ^b</a>  </div>
+ <div class="psdg-bh">  2.6 (0.9,0.3) e9 </div>
+ <div class="psdg-bh">  313 &plusmn 16 </div>
+ <div class="psdg-bh">  11.07 &plusmn 0.05 </div>
+ <div class="psdg-right"> -22.85 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.44 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">34.3</a> </div>
+ <div class="psdg-right"> -- </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 53.9 </div>
+ <div class="psdg-right"> E (C)</div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://arxiv.org/abs/1306.1124">Rusli 2013</a>  </div>
+
+  
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=N7768&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N7768 ^b</a> </div>
+ <div class="psdg-bh"> 1.3 (0.5,0.4) e9 </div>
+ <div class="psdg-bh"> 257 &plusmn 13 </div>
+ <div class="psdg-bh"> 11.09 &plusmn 0.05 </div>
+ <div class="psdg-right"> -22.92 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh">
+  <a href="http://adsabs.harvard.edu/abs/2012arXiv1203.1620M" title="Reference: McConnell 2012">1.16e12</a> </div>
+ <div class="psdg-right"> 0.14 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 112.8 </div>
+ <div class="psdg-right"> E (C) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2012arXiv1203.1620M">McConnell 2012</a>  </div>
+
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=U3789&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">U3789</a>  </div>
+ <div class="psdg-bh">  1.08 (0.06,0.05) e7 </div>
+ <div class="psdg-bh">  107 &plusmn (13,12) </div>
+ <div class="psdg-bh">  -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.02 </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 48.4 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> masers </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...727...20K">Kuo 2011</a>  </div>
+
+<div class="psdg-left">  </div>
+ <div class="psdg-bh">  </div>
+ <div class="psdg-bh">  </div>
+ <div class="psdg-bh">  </div>
+ <div class="psdg-right">  </div>
+ <div class="psdg-bh">  </div>
+ <div class="psdg-right">  </div>
+ <div class="psdg-bh">  </div>
+ <div class="psdg-right">  </div>
+ <div class="psdg-right">  </div>
+ <div class="psdg-right">  </div>
+ <div class="psdg-right">  </div>
+ <div class="psdg-right">  </div>
+ <div class="psdg-right">  </div>
+ <div class="psdg-right">  </div>
+ <div class="psdg-right"  style="width: 160px;">  </div>
+
+<div id="psdg-top">
+<div class="psdg-top-cell" style="width:115px; text-align:left; padding-left: 24px;">More Complicated Systems</div>
+<div class="psdg-top-cell" style="width:111px">M<sub>BH</sub> (+,-) <br> (M<sub>sun</sub>)</div>
+<div class="psdg-top-cell" style="width:111px">&sigma; <br> (km/s)</div>
+<div class="psdg-top-cell" style="width:111px">log(L<sub>V</sub>) </div>
+<div class="psdg-top-cell">M<sub>V</sub></div>
+<div class="psdg-top-cell" style="width:111px">log(L<sub>3.6</sub>) </div>
+<div class="psdg-top-cell">M<sub>3.6</sub></div>
+<div class="psdg-top-cell" style="width:111px">M<sub>bulge</sub><br> (M<sub>sun</sub>)</div>
+<div class="psdg-top-cell">R<sub>inf</sub> (arcsec)</div>
+<div class="psdg-top-cell">R<sub>eff</sub> <br> V-band <br> (arcsec)</div>
+<div class="psdg-top-cell">R<sub>eff</sub> <br> i-band <br> (arcsec)</div>
+<div class="psdg-top-cell">R<sub>eff</sub> <br> 3.6um <br> (arcsec)</div>
+<div class="psdg-top-cell">Distance (Mpc)</div>
+<div class="psdg-top-cell">Morph</div>
+<div class="psdg-top-cell">BH Mass <br>Method</div>
+<div class="psdg-top-cell" style="width:160px;border:none;">BH Mass <br>Reference</div>
+
+</div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=Cygnus+A&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">Cygnus A</a>  </div>
+ <div class="psdg-bh"> 2.7 (0.7,0.8) e9 </div>
+ <div class="psdg-bh"> 270 &plusmn 14  </div>
+ <div class="psdg-bh"> 10.43 &plusmn 0.05  </div>
+ <div class="psdg-right"> -21.28 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.13 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 257.1 </div>
+ <div class="psdg-right"> E </div>
+ <div class="psdg-right"> gas</div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2003MNRAS.342..861T">Tadhunter et al. 2003</a>  </div>
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=IC+2560&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">IC 2560</a>  </div>
+ <div class="psdg-bh"> 4.4 (4.4,2.2) e6 </div>
+ <div class="psdg-bh"> 144 &plusmn 7 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 10.88 &plusmn 0.28 </div>
+ <div class="psdg-right"> -23.95 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.001 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">27.5</a> </div>
+ <div class="psdg-right"> 40.7 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> masers </div>
+ <div class="psdg-right"  style="width:160px;">
+  <a href="http://adsabs.harvard.edu/abs/2001PASJ...53..215I">Ishihara 2001</a>  </div>
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N1068&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N1068 (M77)</a> </div>
+ <div class="psdg-bh">  8.6 (0.3, 0.3) e6 </div>
+ <div class="psdg-bh">  151 &plusmn 7 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 11.22 &plusmn 0.02 </div>
+ <div class="psdg-right"> -24.79 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H" title="Reference: Haring 2004">2.36e10</a> </div>
+ <div class="psdg-right"> 0.02 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2497B" title="Reference: Beifiori 2012">44.5</a> </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">9.8</a> </div>
+ <div class="psdg-right"> 15.4 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> masers </div>
+ <div class="psdg-right"   style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2003A%26A...398..517L">Lodato 2003</a>  </div>
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=N1386&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N1386</a>  </div>
+ <div class="psdg-bh"> 1.2 (1.1,0.6) e6 </div>
+ <div class="psdg-bh"> 166 &plusmn 8 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.002 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 16.1 </div>
+ <div class="psdg-right"> S0 </div>
+ <div class="psdg-right"> masers </div>
+ <div class="psdg-right"  style="width:160px;">
+  <a href="http://adsabs.harvard.edu/abs/1997AAS...19110402B">Braatz 1997</a>  </div>
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N2748&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N2748</a> </div>
+ <div class="psdg-bh">  4.7 (2.0,1.9) e7 </div>
+ <div class="psdg-bh">  115 &plusmn 5 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 10.24 &plusmn 0.04 </div>
+ <div class="psdg-right"> -22.34 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.13 </div>
+ <div class="psdg-right"> -- </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">25.5</a> </div>
+ <div class="psdg-right"> 24.9 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2005MNRAS.359..504A">Atkinson 2005</a>  </div>
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=N3079&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N3079</a>  </div>
+ <div class="psdg-bh"> 2.4 (2.4,1.2) e6 </div>
+ <div class="psdg-bh"> 146 &plusmn 7 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 11.18 &plusmn 0.03 </div>
+ <div class="psdg-right"> -24.71 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.005 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 20.7</div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> masers </div>
+ <div class="psdg-right"  style="width:160px;">
+  <a href="http://adsabs.harvard.edu/abs/1998ApJ...495..740T">Trotter 1998</a>,<a href="http://adsabs.harvard.edu/abs/2004PASJ...56..605Y">Yamauchi 2004</a>,<a href="http://adsabs.harvard.edu/abs/2005ApJ...618..618K">Kondratko 2005</a>  </div>
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=N4151&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4151</a>  </div>
+ <div class="psdg-bh"> 4.5 (0.5,0.5) e7 </div>
+ <div class="psdg-bh"> 93 &plusmn 5 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> 10.33 &plusmn 0.16 </div>
+ <div class="psdg-right"> -22.59 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.33 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">5.4</a> </div>
+ <div class="psdg-right"> 13.9 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width:160px;">
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...670..105O">Onken 2007</a>  </div>
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=N4303&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4303 (M61)</a>  </div>
+ <div class="psdg-bh"> 9.2 (8.6,8.6) e6 </div>
+ <div class="psdg-bh"> 84 &plusmn 4 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.06 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 17.9 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width:160px;">
+  <a href="http://adsabs.harvard.edu/abs/2007A%26A...469..405P">Pastorini 2007</a>  </div>
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=N4350&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4350</a>  </div>
+ <div class="psdg-bh"> 5.6 (4.1,4.1) e8 </div>
+ <div class="psdg-bh"> 181 &plusmn 9 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.90 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 17.0 </div>
+ <div class="psdg-right"> S0 </div>
+ <div class="psdg-right"> gas,stars </div>
+ <div class="psdg-right"  style="width:160px;">
+  <a href="http://adsabs.harvard.edu/abs/2001MNRAS.320..124P">Pignatelli 2001</a>  </div>
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=N4486B&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4486B</a>  </div>
+ <div class="psdg-bh"> 5.8 (2.9,2.0) e8 </div>
+ <div class="psdg-bh"> 169 &plusmn 8 </div>
+ <div class="psdg-bh"> 9.07 &plusmn 0.05 </div>
+ <div class="psdg-right"> -17.88 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 1.10 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 16.3 </div>
+ <div class="psdg-right"> E </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width:160px;">
+  <a href="http://adsabs.harvard.edu/abs/1997ApJ...482L.139K">Kormendy 1997</a>  </div>
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=N4742&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4742</a>  </div>
+ <div class="psdg-bh"> 1.4 (0.4,0.5) e7 </div>
+ <div class="psdg-bh"> 90 &plusmn 5  </div>
+ <div class="psdg-bh"> 9.84 &plusmn 0.05 </div>
+ <div class="psdg-right"> -19.80 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.10 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">7.9</a> </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 15.7 </div>
+ <div class="psdg-right"> E </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width:160px;">
+  <a href="http://adsabs.harvard.edu/abs/2002ApJ...574..740T">Tremaine 2002</a>  </div>
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=N4945&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N4945</a>  </div>
+ <div class="psdg-bh"> 1.4 (0.7,0.5) e6 </div>
+ <div class="psdg-bh"> 134 &plusmn 7 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.02 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 3.7 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> masers </div>
+ <div class="psdg-right"  style="width:160px;">
+  <a href="http://adsabs.harvard.edu/abs/1997ApJ...481L..23G">Greenhill 1997</a>  </div>
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=N5055&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N5055</a>  </div>
+ <div class="psdg-bh"> 8.5 (1.9,1.9) e8 </div>
+ <div class="psdg-bh"> 101 &plusmn 5 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 8.53 </div>
+ <div class="psdg-right"> -- </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 8.7 </div>
+ <div class="psdg-right"> S </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width:160px;">
+  <a href="http://adsabs.harvard.edu/abs/2004A%26A...420..147B">Blais-Ouellette 2004</a>  </div>
+ 
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=N5252&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N5252</a>  </div>
+ <div class="psdg-bh"> 1.0 (1.6,0.46) e9 </div>
+ <div class="psdg-bh"> 190 &plusmn 10 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.24 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 103.7 </div>
+ <div class="psdg-right"> S0 </div>
+ <div class="psdg-right"> gas </div>
+ <div class="psdg-right"  style="width:160px;">
+  <a href="http://adsabs.harvard.edu/abs/2005A%26A...431..465C">Capetti 2005</a>  </div>
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=N5495&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N5495</a>  </div>
+ <div class="psdg-bh"> 1.2 (1.2,0.6) e7 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div> 
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 103 </div>
+ <div class="psdg-right"> Sb </div>
+ <div class="psdg-right"> masers </div>
+ <div class="psdg-right"  style="width:160px;">
+  <a href="http://adsabs.harvard.edu/abs/2006ApJ...638..100K">Kondratko 2006</a>  </div>
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=N5793&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N5793</a>  </div>
+ <div class="psdg-bh"> 1.0 (1.0,1.0) e7 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 53.3 </div>
+ <div class="psdg-right"> Sb </div>
+ <div class="psdg-right"> masers </div>
+ <div class="psdg-right"  style="width:160px;">
+  <a href="http://adsabs.harvard.edu/abs/2001ApJ...560..119H">Hagiwara 2001</a>  </div>
+
+
+  <div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N6240&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N6240(S)</a>  </div>
+ <div class="psdg-bh">  1.6 (0.8,0.7) e9 </div>
+ <div class="psdg-bh">  282 &plusmn (40,46) </div>
+ <div class="psdg-bh">  -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.17 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div> 
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 105.0 </div>
+ <div class="psdg-right"> Irr </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...743...32M">Medling 2011</a>  </div>
+
+  
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=N7332&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N7332</a>  </div>
+ <div class="psdg-bh"> 1.2 (0.6,0.4) e7 </div>
+ <div class="psdg-bh"> 135 &plusmn 7 </div>
+ <div class="psdg-bh"> 9.72 &plusmn 0.05 </div>
+ <div class="psdg-right"> -19.50 </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-bh"> -- </div>
+ <div class="psdg-right"> 0.03 </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..226L" title="Reference: Lauer 2007">13.4</a> </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 21.7 </div>
+ <div class="psdg-right"> S0 </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width:160px;">
+  <a href="http://adsabs.harvard.edu/abs/2004ApJ...604L..89H">Haring & Rix 2004</a>  </div>
+
+
+<div class="psdg-left">
+<a href="http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=N7457&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES">N7457</a> </div>
+ <div class="psdg-bh">  8.7 (5.2,5.2) e6 </div>
+ <div class="psdg-bh">  67 &plusmn 3 </div>
+ <div class="psdg-bh"> 9.30 &plusmn 0.04 </div>
+ <div class="psdg-right"> -18.42 </div>
+ <div class="psdg-bh"> 9.66 &plusmn 0.36 </div>
+ <div class="psdg-right"> -20.89 </div>
+ <div class="psdg-bh"> 
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729...21S" title="Reference: Schulze 2011">6.19e9</a> </div>
+ <div class="psdg-right"> 0.14 </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> -- </div>
+ <div class="psdg-right"> 
+  <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S" title="Reference: Sani 2011">13.85</a> </div>
+ <div class="psdg-right"> 12.2 </div>
+ <div class="psdg-right"> S0 (pl) </div>
+ <div class="psdg-right"> stars </div>
+ <div class="psdg-right"  style="width: 160px;">
+  <a href="http://adsabs.harvard.edu/abs/2011ApJ...729...21S">Schulze 2011</a>  </div>
+
+
+
+
+<div id="psdg-bottom">
+<div class="psdg-bottom-cell" style="width:100px; text-align:left; padding-left: 24px;"><b>Notes:</b></div>
+<div class="psdg-long-cell">Last updated:  June 26, 2013. Please cite
+ <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1211.2816">McConnell & Ma (2013)</a> if you use this website.
+  <br>
+  <br> M<sub>BH</sub> (+,-) represents best-fit M<sub>BH</sub> and
+  1-&sigma; errors.
+  <br> 3.6 micron magnitudes and luminosities are from 
+ <a href="http://adsabs.harvard.edu/abs/2011MNRAS.413.1479S">Sani et al. (2011).</a>
+  <br> Distances use surface brightness fluctuations or assume H0 = 70 km/s/Mpc.
+  <br> Morphologies are elliptical (E), lenticular (S0), spiral (S),
+  and irregular (Irr).
+  Inner photometric profiles are core (C), intermediate (I), and
+  power-law (pl).
+  <br>
+  <br> ^a  For the Milky Way's bulge velocity dispersion, we adopt the value of <a href="">Tremaine et
+  al. (2002).</a>
+  <br> ^b  For several galaxies, we exclude kinematic data within
+  r<sub>inf</sub> when computing &sigma;. See Table 1 of <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1211.2816">McConnell & Ma (2013)</a>.
+  <br> ^c  We include two black hole measurements for N1399, which
+  appear individually reliable but are not mutually consistent.
+  <br> ^d  The black hole mass in N5128 has been subject to numerous
+  measurments, most of which are consistent.  Here we use the latest
+  stellar dynamical measurement. </div>
+</div>
+
+
+
+<div id="psdg-footer">
+<!-- * How does this look?  -->
+</div>
+
+
+</div>
+
+
+!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=8459347; 
+var sc_invisible=0; 
+var sc_security="9f68a80c"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost +
+"statcounter.com/counter/counter.js'></"+"script>");</script>
+<noscript><div class="statcounter"><a title="web statistics"
+href="http://statcounter.com/free-web-stats/" target="_blank"><img
+class="statcounter" src="https://c.statcounter.com/8459347/0/9f68a80c/0/"
+alt="web statistics"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+
+
+
+</body>
+</html>
